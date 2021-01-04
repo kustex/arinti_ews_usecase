@@ -1,1 +1,3 @@
 # arinti_ews_usecase
+
+In this project Nathan Fontaine, Liza Maria and I worked together on a usecase for the Ai consultancy company 'Arinti'....
