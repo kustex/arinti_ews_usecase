@@ -34,24 +34,24 @@ You can be as creative as you want with this, and use any technique you have lea
 
 ## Additional dataset info
 
-PatientId: Unique identifier for the patient
-ObservationDate: Date of the observation
-EwsProcedure: Which EWS procedure has been used (> in your dataset, this will normally always be NEWS2.0)
-EWS_Total: Total EWS score
-SBP: Systolic Blood Pressure
-SBP_Score: Contribution of SBP parameter to total EWS score
-LOC: Level Of Consciousness
-LOC_Score: Contribution of LOC parameter to total EWS score
-SpO2: Peripheral capillary oxygen saturation (the amount of oxygen in the blood)
-SpO2_Score: Contribution of SpO2 parameter to total EWS score
-Add_O2: Is the patient receiving additional oxygen or not
-Add_O2_Score: Contribution of Add_O2 parameter to total EWS score
-HR: Heartrate
-HR_Score: Contribution of HR parameter to total EWS score
-RR: Respiratory Rate
-RR_Score: Contribution of RR parameter to total EWS score
-TEMP: Patient body temperature
-TEMP_Score: Contribution of TEMP parameter to total EWS score
+PatientId: Unique identifier for the patient  
+ObservationDate: Date of the observation  
+EwsProcedure: Which EWS procedure has been used (> in your dataset, this will normally always be NEWS2.0)  
+EWS_Total: Total EWS score  
+SBP: Systolic Blood Pressure  
+SBP_Score: Contribution of SBP parameter to total EWS score  
+LOC: Level Of Consciousness  
+LOC_Score: Contribution of LOC parameter to total EWS score  
+SpO2: Peripheral capillary oxygen saturation (the amount of oxygen in the blood)  
+SpO2_Score: Contribution of SpO2 parameter to total EWS score  
+Add_O2: Is the patient receiving additional oxygen or not  
+Add_O2_Score: Contribution of Add_O2 parameter to total EWS score  
+HR: Heartrate  
+HR_Score: Contribution of HR parameter to total EWS score  
+RR: Respiratory Rate  
+RR_Score: Contribution of RR parameter to total EWS score  
+TEMP: Patient body temperature  
+TEMP_Score: Contribution of TEMP parameter to total EWS score  
 
 ### Must-have features
 
