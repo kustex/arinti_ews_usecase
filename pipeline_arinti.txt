@@ -1,0 +1,10 @@
+1. get data of patient (1week)
+2. check avg time measured btw samples
+3. for every metric 
+	4. check if differencing is necessary (arima or arma)
+	5. what is d? 
+	6. give best pdq (auto arima)
+	7. train model on +/- 20 measurements (fit)
+	8. predict (5 samples/ 1,5 day)
+	9. check accuracy predictions 
+10. calculate EWS from predictions
